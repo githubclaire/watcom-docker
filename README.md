@@ -1,4 +1,4 @@
-[![Docker Hub](https://github.com/githubclaire/watcom-docker/actions/workflows/manual.yml/badge.svg)](https://hub.docker.com/dockerhy/watcom-docker/)
+[![Docker Hub](https://github.com/githubclaire/watcom-docker/actions/workflows/manual.yml/badge.svg)](https://hub.docker.com/r/dockerhy/watcom-docker/)
 
 # Watcom Docker Build Environment
 
