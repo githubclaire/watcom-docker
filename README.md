@@ -1,4 +1,4 @@
-[![](https://img.shields.io/docker/pulls/lapinlabs/watcom.svg)](https://hub.docker.com/r/lapinlabs/watcom/)
+[![Docker Hub](https://github.com/githubclaire/watcom-docker/actions/workflows/manual.yml/badge.svg)](https://hub.docker.com/dockerhy/watcom-docker/)
 
 # Watcom Docker Build Environment
 
